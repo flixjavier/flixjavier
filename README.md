@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flixjavier
 - 👀 I’m interested in web develoment and data science 
-- 🌱 I’m currently learning HTML, and Python 
+- 🌱 I’m currently learning HTML, JS, and CSS 
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me: flixjavier@gmail.com 
 
