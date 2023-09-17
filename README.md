@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @flixjavier
-- 👀 I’m interested in web develoment and data science 
-- 🌱 I’m currently learning HTML, JS, and CSS 
-- 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me: flixjavier@gmail.com 
+Hey there, I'm Felix Flores! 👋
+👀 I'm passionate about web development and data science.
+
+🌱 Currently, I'm sharpening my skills in HTML, JavaScript, and CSS.
+
+💼 I'm open to collaborating on exciting new projects and contributing to meaningful initiatives.
+
+📧 Feel free to reach out to me via email at flixjavier@gmail.com.
+
+Let's build something incredible together! 🚀
 
 <!---
 flixjavier/flixjavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
