@@ -1,15 +1,41 @@
-Hey there, I'm Felix Flores! 👋
-👀 I'm passionate about web development and data science.
+👋 Hey there, I'm Felix Flores!
+👀 Passionate About
 
-🌱 Currently, I'm sharpening my skills in HTML, JavaScript, and CSS.
+Web Development • Data Science • Problem-Solving • Continuous Learning
 
-💼 I'm open to collaborating on exciting new projects and contributing to meaningful initiatives.
+🌱 Currently Learning
 
-📧 Feel free to reach out to me via email at flixjavier@gmail.com.
+HTML, CSS, and JavaScript to strengthen my front-end development.
 
-Let's build something incredible together! 🚀
+Python to grow my skills in data analysis, automation, and backend development.
 
-<!---
-flixjavier/flixjavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧰 Tech Stack
+Languages & Tools
+<p> <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" /> </p>
+💼 Open to
+
+Collaborating on meaningful and exciting projects
+
+Contributing to open-source initiatives
+
+Building tools that help people and solve real problems
+
+📫 Contact Me
+
+📧 Email: flixjavier@gmail.com
+
+Let’s connect and build something great!
+
+🌐 Connect With Me
+<p> <a href="https://www.linkedin.com/in/felixjflores-zamarripa/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Felix%20Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:flixjavier@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+📊 GitHub Stats
+<p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=flixjavier&show_icons=true&hide_border=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixflores&layout=compact&hide_border=true&theme=tokyonight" /> </p>
+🚀 What I'm Working On
+
+Building small Python projects to sharpen my logic.
+
+Practicing JavaScript through interactive web components.
+
+Becoming a better developer every day.
+
+✨ Let’s Build Something Awesome Together!
